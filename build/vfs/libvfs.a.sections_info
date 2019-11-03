@@ -210,7 +210,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
 102 .text.esp_vfs_poll 00000189  00000000  00000000  00001b14  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-103 .rodata.__func__$5369 0000000f  00000000  00000000  00001ca0  2**2
+103 .rodata.__func__$5385 0000000f  00000000  00000000  00001ca0  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
 104 .bss.s_fd_table_lock 00000004  00000000  00000000  00001cb0  2**2
                   ALLOC
@@ -428,23 +428,23 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  56 .text.esp_vfs_dev_uart_use_driver 00000047  00000000  00000000  00001564  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 57 .rodata.__func__$6534 0000000b  00000000  00000000  000015ac  2**2
+ 57 .rodata.__func__$6568 0000000b  00000000  00000000  000015ac  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 58 .rodata.__func__$6550 00000011  00000000  00000000  000015b8  2**2
+ 58 .rodata.__func__$6584 00000011  00000000  00000000  000015b8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 59 .rodata.__func__$6556 0000000a  00000000  00000000  000015cc  2**2
+ 59 .rodata.__func__$6590 0000000a  00000000  00000000  000015cc  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 60 .rodata.__func__$6572 0000000b  00000000  00000000  000015d8  2**2
+ 60 .rodata.__func__$6606 0000000b  00000000  00000000  000015d8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 61 .rodata.__func__$6568 0000000b  00000000  00000000  000015e4  2**2
+ 61 .rodata.__func__$6602 0000000b  00000000  00000000  000015e4  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 62 .rodata.__func__$6578 0000000b  00000000  00000000  000015f0  2**2
+ 62 .rodata.__func__$6612 0000000b  00000000  00000000  000015f0  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 63 .rodata.__func__$6432 00000012  00000000  00000000  000015fc  2**2
+ 63 .rodata.__func__$6466 00000012  00000000  00000000  000015fc  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 64 .rodata.__func__$6588 0000000b  00000000  00000000  00001610  2**2
+ 64 .rodata.__func__$6622 0000000b  00000000  00000000  00001610  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 65 .rodata.__func__$6756 0000001a  00000000  00000000  0000161c  2**2
+ 65 .rodata.__func__$6790 0000001a  00000000  00000000  0000161c  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  66 .data.s_uart_rx_func 0000000c  00000000  00000000  00001638  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, DATA

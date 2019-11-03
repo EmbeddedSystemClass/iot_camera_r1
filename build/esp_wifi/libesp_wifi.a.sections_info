@@ -178,7 +178,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
   1 .literal.store_cal_data_to_nvs_handle 00000060  00000000  00000000  0000007c  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
-  2 .iram1.6.literal 00000004  00000000  00000000  000000dc  2**2
+  2 .iram1.7.literal 00000004  00000000  00000000  000000dc  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
   3 .literal.esp_phy_rf_get_on_ts 00000004  00000000  00000000  000000e0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -218,9 +218,9 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  21 .text.store_cal_data_to_nvs_handle 000000ea  00000000  00000000  00000aec  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 22 .iram1.5      00000008  00000000  00000000  00000bd8  2**2
+ 22 .iram1.6      00000008  00000000  00000000  00000bd8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, CODE
- 23 .iram1.6      0000000e  00000000  00000000  00000be0  2**2
+ 23 .iram1.7      0000000e  00000000  00000000  00000be0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  24 .text.esp_phy_rf_get_on_ts 0000000c  00000000  00000000  00000bf0  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
@@ -248,27 +248,27 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  36 .text.esp_phy_load_cal_and_init 00000137  00000000  00000000  00001210  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 37 .rodata.__func__$7705 0000001e  00000000  00000000  00001348  2**2
+ 37 .rodata.__func__$7739 0000001e  00000000  00000000  00001348  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 38 .rodata.__func__$7722 0000001d  00000000  00000000  00001368  2**2
+ 38 .rodata.__func__$7756 0000001d  00000000  00000000  00001368  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 39 .rodata.__func__$7712 0000001e  00000000  00000000  00001388  2**2
+ 39 .rodata.__func__$7746 0000001e  00000000  00000000  00001388  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 40 .rodata.__func__$7693 0000001f  00000000  00000000  000013a8  2**2
+ 40 .rodata.__func__$7727 0000001f  00000000  00000000  000013a8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 41 .rodata.__func__$7672 0000001b  00000000  00000000  000013c8  2**2
+ 41 .rodata.__func__$7706 0000001b  00000000  00000000  000013c8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 42 .rodata.__func__$7668 00000019  00000000  00000000  000013e4  2**2
+ 42 .rodata.__func__$7702 00000019  00000000  00000000  000013e4  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 43 .rodata.__func__$7663 00000015  00000000  00000000  00001400  2**2
+ 43 .rodata.__func__$7697 00000015  00000000  00000000  00001400  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 44 .rodata.__func__$7658 00000016  00000000  00000000  00001418  2**2
+ 44 .rodata.__func__$7692 00000016  00000000  00000000  00001418  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 45 .rodata.__func__$7649 00000012  00000000  00000000  00001430  2**2
+ 45 .rodata.__func__$7683 00000012  00000000  00000000  00001430  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
- 46 .bss.s_common_clock_disable_time$7634 00000004  00000000  00000000  00001444  2**2
+ 46 .bss.s_common_clock_disable_time$7668 00000004  00000000  00000000  00001444  2**2
                   ALLOC
- 47 .rodata.__func__$7642 00000010  00000000  00000000  00001444  2**2
+ 47 .rodata.__func__$7676 00000010  00000000  00000000  00001444  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  48 .bss.s_phy_rf_en_ts 00000008  00000000  00000000  00001458  2**3
                   ALLOC

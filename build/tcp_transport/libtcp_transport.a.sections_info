@@ -87,7 +87,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  21 .text.esp_transport_tcp_init 0000007a  00000000  00000000  00000420  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 22 .rodata.__FUNCTION__$5843 00000017  00000000  00000000  0000049c  2**2
+ 22 .rodata.__FUNCTION__$5877 00000017  00000000  00000000  0000049c  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  23 .debug_frame  000000e8  00000000  00000000  000004b4  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
@@ -283,7 +283,7 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
  29 .text.esp_transport_ssl_init 0000007e  00000000  00000000  00000648  2**2
                   CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
- 30 .rodata.__FUNCTION__$8758 00000017  00000000  00000000  000006c8  2**2
+ 30 .rodata.__FUNCTION__$8792 00000017  00000000  00000000  000006c8  2**2
                   CONTENTS, ALLOC, LOAD, READONLY, DATA
  31 .debug_frame  00000148  00000000  00000000  000006e0  2**2
                   CONTENTS, RELOC, READONLY, DEBUGGING
